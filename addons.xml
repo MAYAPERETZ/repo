@@ -2,13 +2,13 @@
 <addons>
 	<addon id="repository.Fishenzon" name="Fishenzon repo" version="1.0.2" provider-name="Fishenzon">
 		<extension point="xbmc.addon.repository" name="Fishenzon repo">
-			<info compressed="false">https://raw.githubusercontent.com/fishenzon/repo/master/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/fishenzon/repo/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/fishenzon/repo/master/zips</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/mayaperetz/repo/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/mayaperetz/repo/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/mayaperetz/repo/master/zips</datadir>
 			<dir>
-				<info compressed="false">https://raw.githubusercontent.com/fishenzon/repo/master/addons.xml</info>
-				<checksum>https://raw.githubusercontent.com/fishenzon/repo/master/addons.xml.md5</checksum>
-				<datadir zip="true">https://raw.githubusercontent.com/fishenzon/repo/master/zips</datadir>
+				<info compressed="false">https://raw.githubusercontent.com/mayaperetz/repo/master/addons.xml</info>
+				<checksum>https://raw.githubusercontent.com/mayaperetz/repo/master/addons.xml.md5</checksum>
+				<datadir zip="true">https://raw.githubusercontent.com/mayaperetz/repo/master/zips</datadir>
 			</dir>
 		</extension>
 		<extension point="xbmc.addon.metadata">
